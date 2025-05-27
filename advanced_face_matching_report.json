@@ -203,6 +203,12 @@
       "matches_found": 1
     },
     {
+      "url": "https://www.cryptotimes.io/2024/03/11/moonbirds-creator-kevin-rose-sells-1-2-million-nfts/",
+      "images_found": 13,
+      "images_processed": 12,
+      "matches_found": 0
+    },
+    {
       "url": "https://techcrunch.com/2017/04/03/kevin-rose-is-going-back-to-cali-and-joining-true-ventures-as-venture-partner/",
       "images_found": 3,
       "images_processed": 2,
@@ -277,13 +283,13 @@
   ],
   "summaries": {
     "https://rocketdevs.com/blog/top-angel-investors-list": {
-      "summary": "Based on the matched image, Collins Okolo is a prominent investor recognized for his significant contributions to early-stage startup funding. He is known as an influential angel investor actively supporting innovative entrepreneurs and facilitating their growth through strategic capital infusion, mentorship, and extensive industry networks. His expertise and dedication underscore his role in fostering startup success within the entrepreneurial ecosystem.",
+      "summary": "Based on the image match, the individual is Collins Okolo, a prominent figure in the startup and investment community. He is recognized for his expertise in angel investing, supporting early-stage startups with capital, mentorship, and strategic guidance. His contributions have significantly impacted emerging entrepreneurs, fostering innovation and growth within the startup ecosystem.",
       "matches_count": 1,
       "best_similarity": 0.7738909062621357,
       "content_scraped": 3000
     },
     "https://techcrunch.com/2019/11/15/vc-cyan-banister-on-her-path/": {
-      "summary": "**Professional Summary**\n\nCyan Banister is a prominent venture capitalist and entrepreneur who transformed her life from a homeless teenager to a successful investor and partner at Founders Fund. With a background as a self-taught engineer, she played a pivotal role in the growth of IronPort, which was sold to Cisco for $830 million, and has since made significant investments in groundbreaking companies like SpaceX and Uber.\n\n  \n\n**Key Details**\n\n- **Position**: Partner at Founders Fund\n- **Organization**: Founders Fund, a leading venture capital firm\n- **Achievements**:\n  - Co-founded IronPort, which was acquired by Cisco in 2007\n  - Invested in notable startups including SpaceX and Uber\n  - Transitioned to AngelList to support early-stage entrepreneurs before joining Founders Fund\n\n  \n\n**Relevant Professional Information**\n\n- **Background**: Self-taught engineer with experience in management roles at IronPort\n- **Investment Style**: Focuses on angel investments of $1.5 million or less in both innovative and practical startups\n- **Operational Approach**: Advocates for a decentralized decision-making process at Founders Fund, emphasizing minimal meetings and strategic discussions during quarterly off-sites.",
+      "summary": "**Professional Summary**\n\nCyan Banister is a prominent venture capitalist and a self-made success story, having transformed her life from a homeless teenager to a key player in the tech investment landscape. With a background as a self-taught engineer and significant experience in management at IronPort, she has made substantial contributions to the startup ecosystem, particularly through her investments in groundbreaking companies like SpaceX and Uber.\n\n  \n\n**Key Details**\n\n- **Position**: Partner at Founders Fund\n- **Organization**: Founders Fund, a leading venture capital firm\n- **Achievements**:\n  - Co-founded IronPort, which was sold to Cisco for $830 million in 2007\n  - Invested in numerous successful startups, including SpaceX and Uber\n  - Transitioned to a partner role at Founders Fund, contributing to its reputation as a top investment firm\n\n  \n\n**Relevant Professional Information**\n\n- **Background**: Overcame homelessness and began her career making hemp necklaces and silk-screen T-shirts\n- **Investment Style**: Focuses on early-stage investments, typically under $1.5 million, in both innovative and practical companies\n- **Operational Approach**: Advocates for a decentralized decision-making process at Founders Fund, with minimal meetings and a focus on strategic discussions during quarterly off-sites.",
       "matches_count": 1,
       "best_similarity": 0.9776744981766384,
       "content_scraped": 3000

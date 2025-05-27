@@ -44,7 +44,7 @@ class AdvancedFaceMatchingCrawler:
     
         print("Initializing DeepFace...")
         # DeepFace models: VGG-Face, Facenet, Facenet512, OpenFace, DeepID, ArcFace, Dlib, SFace
-        self.deepface_model = 'ArcFace'  #can change this to other models
+        self.deepface_model = 'OpenFace'  #can change this to other models
         self.deepface_detector = 'opencv'   #opencv, ssd, dlib, mtcnn, retinaface
 
         try:
@@ -52,9 +52,9 @@ class AdvancedFaceMatchingCrawler:
             DeepFace.represent(np.zeros((224, 224, 3), dtype=np.uint8), 
                             model_name=self.deepface_model, 
                             detector_backend=self.deepface_detector)
-            print("✅ DeepFace initialized successfully!")
+            print("DeepFace initialized successfully!")
         except Exception as e:
-            print(f"⚠️ DeepFace initialization warning: {e}")
+            print(f"DeepFace initialization warning: {e}")
         
 
         # Load face detection cascade
