@@ -42,7 +42,7 @@ class AdvancedFaceMatchingCrawler:
             self.device = 'cpu'
             print("Using CPU")
     
-        print("📦 Initializing DeepFace...")
+        print("Initializing DeepFace...")
         # DeepFace models: VGG-Face, Facenet, Facenet512, OpenFace, DeepID, ArcFace, Dlib, SFace
         self.deepface_model = 'ArcFace'  #can change this to other models
         self.deepface_detector = 'opencv'   #opencv, ssd, dlib, mtcnn, retinaface
@@ -128,9 +128,9 @@ class AdvancedFaceMatchingCrawler:
                         }
                         
                         detected_faces.append(face_info)
-                        print(f"✅ Face {i+1}: Quality {quality_score:.1f} - Added for matching")
+                        print(f"Face {i+1}: Quality {quality_score:.1f} - Added for matching")
                     else:
-                        print(f"❌ Face {i+1}: Quality {quality_score:.1f} - Skipped (too low)")
+                        print(f"Face {i+1}: Quality {quality_score:.1f} - Skipped (too low)")
                 
             except Exception as e:
                 print(f"DeepFace detection failed, falling back to OpenCV: {e}")
@@ -366,7 +366,7 @@ class AdvancedFaceMatchingCrawler:
                                 }
                                 
                                 matches.append(match_info)
-                                print(f"🎯 MATCH FOUND! Similarity: {similarity:.3f} on {website_url}")
+                                print(f"MATCH FOUND! Similarity: {similarity:.3f} on {website_url}")
                 
                 return {
                     'img_url': img_url,
@@ -534,15 +534,15 @@ Keep it concise and professional. Focus on career, education, and accomplishment
             return summary
             
         except Exception as e:
-            print(f"❌ Error generating summary: {e}")
+            print(f"Error generating summary: {e}")
             return f"Summary generation failed: {str(e)}"
     
     def crawl_and_match(self, input_image_path, website_urls):
         """Main function to crawl websites and find face matches"""
-        print(f"🚀 Starting Advanced Face Matching Crawler")
-        print(f"📸 Input image: {input_image_path}")
-        print(f"🌐 Websites to crawl: {len(website_urls)}")
-        print(f"🎯 Match threshold: {self.match_threshold}")
+        print(f"Starting Advanced Face Matching Crawler")
+        print(f"Input image: {input_image_path}")
+        print(f"Websites to crawl: {len(website_urls)}")
+        print(f"Match threshold: {self.match_threshold}")
         print("=" * 60)
         
         input_faces = self.detect_faces_in_image(input_image_path)
@@ -556,7 +556,7 @@ Keep it concise and professional. Focus on career, education, and accomplishment
                 'summaries': {}
             }
         
-        print(f"✅ Ready to match against {len(input_faces)} input face(s)")
+        print(f"Ready to match against {len(input_faces)} input face(s)")
         
         all_matches = []
         
@@ -576,7 +576,7 @@ Keep it concise and professional. Focus on career, education, and accomplishment
                 processed_images = 0
                 
                 for img_idx, img_url in enumerate(image_urls, 1):
-                    print(f"  📷 Processing image {img_idx}/{len(image_urls)}: {img_url[:60]}...")
+                    print(f"Processing image {img_idx}/{len(image_urls)}: {img_url[:60]}...")
                     
                     result = self.download_and_process_image(img_url, url)
                     
@@ -596,11 +596,11 @@ Keep it concise and professional. Focus on career, education, and accomplishment
                 
                 self.results['crawled_websites'].append(website_result)
                 
-                print(f"📊 Website summary: {len(image_urls)} images found, {processed_images} processed, {len(website_matches)} matches")
+                print(f"Website summary: {len(image_urls)} images found, {processed_images} processed, {len(website_matches)} matches")
                 
                 # Generate summary if matches found
                 if website_matches:
-                    print(f"🤖 Generating summary for matches on {url}")
+                    print(f"Generating summary for matches on {url}")
                     
                     content = self.scrape_webpage_content(url)
                     best_match = max(website_matches, key=lambda x: x['similarity'])
@@ -641,7 +641,7 @@ Keep it concise and professional. Focus on career, education, and accomplishment
         print(f"Summaries generated: {len(summaries)}")
         
         if matches:
-            print(f"\n📋 DETAILED MATCHES:")
+            print(f"\nDETAILED MATCHES:")
             
             for i, match in enumerate(matches, 1):
                 print(f"\n Match {i}:")
@@ -715,7 +715,7 @@ def main():
     print(f"Crawl completed in {end_time - start_time:.2f} seconds")
     
     print(f"\nCrawling completed!")
-    print(f"📊 Found {len(results['matches_found'])} total matches")
+    print(f"Found {len(results['matches_found'])} total matches")
     
     return results
 
