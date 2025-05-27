@@ -1,0 +1,5 @@
+/venv
+/.deepface
+/.ipynb_checkpoints
+/deepface_models
+/har_and_cookies

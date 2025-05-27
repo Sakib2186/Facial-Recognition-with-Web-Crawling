@@ -1,0 +1,292 @@
+{
+  "input_faces": [
+    {
+      "face_id": 0,
+      "coordinates": [
+        127,
+        99,
+        158,
+        158
+      ],
+      "quality_score": 99.964,
+      "embedding": [
+        0.09866348654031754,
+        0.04449876770377159,
+        0.05896856635808945,
+        0.08792270720005035,
+        0.02970295026898384,
+        0.2191508561372757,
+        0.08672213554382324,
+        -0.07920530438423157,
+        0.024135936051607132,
+        0.01989012584090233,
+        -0.022551897913217545,
+        0.05529925972223282,
+        0.011215010657906532,
+        -0.15618303418159485,
+        0.07713480293750763,
+        -0.059764325618743896,
+        0.029786603525280952,
+        0.1588154435157776,
+        -0.03632326051592827,
+        -0.09689982980489731,
+        0.05078330636024475,
+        0.10291296243667603,
+        -0.025879129767417908,
+        0.17804020643234253,
+        -0.0013318315614014864,
+        -0.1239607036113739,
+        -0.06895064562559128,
+        -0.18079257011413574,
+        -0.11442681401968002,
+        0.13480445742607117,
+        0.055359210819005966,
+        0.08445367962121964,
+        -0.07220634073019028,
+        0.12618771195411682,
+        0.14808964729309082,
+        -0.08086752146482468,
+        0.13053905963897705,
+        -0.10230397433042526,
+        0.01403776928782463,
+        -0.03455354645848274,
+        0.05673694238066673,
+        -0.07311888039112091,
+        0.051867980509996414,
+        -0.014416621066629887,
+        -0.0683915913105011,
+        -0.0942765474319458,
+        0.04249535873532295,
+        0.011382034048438072,
+        -0.03435048833489418,
+        0.04687516391277313,
+        0.258230984210968,
+        -0.13726630806922913,
+        0.07390893995761871,
+        0.00674605555832386,
+        0.025992095470428467,
+        0.07989533245563507,
+        0.021648943424224854,
+        -0.011215392500162125,
+        0.061865609139204025,
+        -0.030116137117147446,
+        0.008691186085343361,
+        -0.006614066194742918,
+        -0.07298271358013153,
+        -0.2580971121788025,
+        0.11382173746824265,
+        -0.12970544397830963,
+        0.05403373762965202,
+        -0.1256844848394394,
+        -0.15962578356266022,
+        0.10991504788398743,
+        -0.0777733102440834,
+        0.018967514857649803,
+        -0.06826142221689224,
+        -0.07046596705913544,
+        -0.14437054097652435,
+        0.005432964768260717,
+        0.003045852528885007,
+        0.02998272329568863,
+        0.014146434143185616,
+        0.039260610938072205,
+        0.002247954485937953,
+        0.06659935414791107,
+        0.006113015580922365,
+        0.008109676651656628,
+        0.06748020648956299,
+        -0.07473709434270859,
+        0.027073699980974197,
+        -0.1252128779888153,
+        -0.10091570764780045,
+        0.1337803304195404,
+        -0.03976374492049217,
+        -0.09055565297603607,
+        0.004100252408534288,
+        -0.04220415651798248,
+        -0.11747334152460098,
+        0.06221149489283562,
+        -0.006756409537047148,
+        -0.009261521510779858,
+        0.026609014719724655,
+        0.08844402432441711,
+        0.12595561146736145,
+        0.09550515562295914,
+        -0.026619302108883858,
+        0.0815536230802536,
+        0.0664164274930954,
+        -0.16416829824447632,
+        -0.016239842399954796,
+        -0.08701253682374954,
+        -0.18099212646484375,
+        0.14577053487300873,
+        -0.03223513066768646,
+        -0.032077133655548096,
+        0.03278009966015816,
+        -0.09436782449483871,
+        -0.023393968120217323,
+        0.0016084566013887525,
+        -0.03129515051841736,
+        -0.030283531174063683,
+        -0.11717457324266434,
+        0.034383177757263184,
+        0.13358327746391296,
+        -0.004904333036392927,
+        -0.0023550542537122965,
+        -0.003295477479696274,
+        0.11807005107402802,
+        -0.02009599655866623,
+        -0.004846436437219381,
+        -0.07018212229013443
+      ]
+    }
+  ],
+  "crawled_websites": [
+    {
+      "url": "https://www.i4cp.com/leading-the-way/leading-the-way-podcast-shark-tanks-mark-cuban",
+      "images_found": 4,
+      "images_processed": 4,
+      "matches_found": 0
+    },
+    {
+      "url": "https://www.scmp.com/magazines/style/celebrity/article/3189475/inside-mark-cubans-humble-parenting-style-shark-tank",
+      "images_found": 5,
+      "images_processed": 5,
+      "matches_found": 0
+    },
+    {
+      "url": "https://www.britannica.com/money/Mark-Cuban",
+      "images_found": 9,
+      "images_processed": 9,
+      "matches_found": 0
+    },
+    {
+      "url": "https://www.i4cp.com/leading-the-way/leading-the-way-podcast-shark-tanks-mark-cuban",
+      "images_found": 4,
+      "images_processed": 4,
+      "matches_found": 0
+    },
+    {
+      "url": "https://www.caa.com/caaspeakers/gary-vaynerchuk",
+      "images_found": 9,
+      "images_processed": 7,
+      "matches_found": 0
+    },
+    {
+      "url": "https://www.apbspeakers.com/speaker/gary-vaynerchuk/",
+      "images_found": 5,
+      "images_processed": 5,
+      "matches_found": 0
+    },
+    {
+      "url": "https://www.adma.com.au/people/gary-vaynerchuk",
+      "images_found": 2,
+      "images_processed": 2,
+      "matches_found": 0
+    },
+    {
+      "url": "https://www.castmagic.io/creators/gary-vaynerchuk",
+      "images_found": 38,
+      "images_processed": 10,
+      "matches_found": 0
+    },
+    {
+      "url": "https://www.businessinsider.com/gary-vaynerchuk-ai-chatgpt-chatbot-microsoft-google-job-labor-trends-2023-2",
+      "images_found": 20,
+      "images_processed": 1,
+      "matches_found": 0
+    },
+    {
+      "url": "https://rocketdevs.com/blog/top-angel-investors-list",
+      "images_found": 18,
+      "images_processed": 16,
+      "matches_found": 1
+    },
+    {
+      "url": "https://techcrunch.com/2017/04/03/kevin-rose-is-going-back-to-cali-and-joining-true-ventures-as-venture-partner/",
+      "images_found": 3,
+      "images_processed": 2,
+      "matches_found": 0
+    },
+    {
+      "url": "https://www.celebritynetworth.com/richest-businessmen/ceos/kevin-rose-net-worth/",
+      "images_found": 44,
+      "images_processed": 22,
+      "matches_found": 0
+    },
+    {
+      "url": "https://www.growth-hackers.net/what-is-tim-ferriss-net-worth-how-make-money-investor-rich-successful-entrepreneur-business/",
+      "images_found": 34,
+      "images_processed": 14,
+      "matches_found": 0
+    },
+    {
+      "url": "https://blogs.the-hospitalist.org/content/listening-tim-ferriss",
+      "images_found": 7,
+      "images_processed": 7,
+      "matches_found": 0
+    },
+    {
+      "url": "https://techcrunch.com/2018/09/05/cyan-banister-shares-her-journey-from-homeless-teen-to-vc/",
+      "images_found": 4,
+      "images_processed": 3,
+      "matches_found": 0
+    },
+    {
+      "url": "https://techcrunch.com/2020/03/02/cyan-banister-leaves-founders-fund-for-long-journey-ventures/",
+      "images_found": 3,
+      "images_processed": 2,
+      "matches_found": 0
+    },
+    {
+      "url": "https://techcrunch.com/2019/11/15/vc-cyan-banister-on-her-path/",
+      "images_found": 4,
+      "images_processed": 3,
+      "matches_found": 1
+    }
+  ],
+  "matches_found": [
+    {
+      "input_face_id": 0,
+      "web_face_idx": 0,
+      "similarity": 0.7738909062621357,
+      "quality_score": 70,
+      "img_url": "https://rocketdevs-assets.s3.amazonaws.com/lark-files/%20naval-angel-investors-list.webp",
+      "website_url": "https://rocketdevs.com/blog/top-angel-investors-list",
+      "coordinates": [
+        746,
+        116,
+        707,
+        707
+      ]
+    },
+    {
+      "input_face_id": 0,
+      "web_face_idx": 0,
+      "similarity": 0.9776744981766384,
+      "quality_score": 91.9,
+      "img_url": "https://techcrunch.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-15-at-10.25.52-AM.png?w=1024",
+      "website_url": "https://techcrunch.com/2019/11/15/vc-cyan-banister-on-her-path/",
+      "coordinates": [
+        498,
+        150,
+        130,
+        130
+      ]
+    }
+  ],
+  "summaries": {
+    "https://rocketdevs.com/blog/top-angel-investors-list": {
+      "summary": "Based on the matched image, Collins Okolo is a prominent investor recognized for his significant contributions to early-stage startup funding. He is known as an influential angel investor actively supporting innovative entrepreneurs and facilitating their growth through strategic capital infusion, mentorship, and extensive industry networks. His expertise and dedication underscore his role in fostering startup success within the entrepreneurial ecosystem.",
+      "matches_count": 1,
+      "best_similarity": 0.7738909062621357,
+      "content_scraped": 3000
+    },
+    "https://techcrunch.com/2019/11/15/vc-cyan-banister-on-her-path/": {
+      "summary": "**Professional Summary**\n\nCyan Banister is a prominent venture capitalist and entrepreneur who transformed her life from a homeless teenager to a successful investor and partner at Founders Fund. With a background as a self-taught engineer, she played a pivotal role in the growth of IronPort, which was sold to Cisco for $830 million, and has since made significant investments in groundbreaking companies like SpaceX and Uber.\n\n  \n\n**Key Details**\n\n- **Position**: Partner at Founders Fund\n- **Organization**: Founders Fund, a leading venture capital firm\n- **Achievements**:\n  - Co-founded IronPort, which was acquired by Cisco in 2007\n  - Invested in notable startups including SpaceX and Uber\n  - Transitioned to AngelList to support early-stage entrepreneurs before joining Founders Fund\n\n  \n\n**Relevant Professional Information**\n\n- **Background**: Self-taught engineer with experience in management roles at IronPort\n- **Investment Style**: Focuses on angel investments of $1.5 million or less in both innovative and practical startups\n- **Operational Approach**: Advocates for a decentralized decision-making process at Founders Fund, emphasizing minimal meetings and strategic discussions during quarterly off-sites.",
+      "matches_count": 1,
+      "best_similarity": 0.9776744981766384,
+      "content_scraped": 3000
+    }
+  }
+}
